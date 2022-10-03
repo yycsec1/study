@@ -1,2 +1,10 @@
-Video Links:
+YouTube:
 [] - https://www.youtube.com/watch?v=erD-ClTUmck&t=1s - Pwning the CI Workflow and How to Prevent It - Steve Giguere
+
+Courses:
+[] - https://community.wehackpurple.com/courses/7510333/content - Application Security Foundations Level 1
+[] - https://community.wehackpurple.com/courses/7549707/content - Application Security Foundations Level 2
+[] - https://community.wehackpurple.com/courses/7546577/content - Application Security Foundations Level 3
+
+Books:
+[] - https://www.oreilly.com/library/view/alice-and-bob/9781119687351/ - Alice and Bob Learn Application Security - Tanya Janca
