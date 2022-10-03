@@ -1,2 +1,2 @@
 Video Links:
-[] - https://www.youtube.com/watch?v=erD-ClTUmck&t=1s
+[] - https://www.youtube.com/watch?v=erD-ClTUmck&t=1s - Pwning the CI Workflow and How to Prevent It - Steve Giguere
