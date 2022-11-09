@@ -8,3 +8,7 @@ Courses:
 
 Books:
 [] - https://www.oreilly.com/library/view/alice-and-bob/9781119687351/ - Alice and Bob Learn Application Security - Tanya Janca
+
+Labs:
+[] - https://portswigger.net/web-security/all-labs - portswigger.com web security academy
+[] - 
